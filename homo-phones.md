@@ -15,3 +15,6 @@ Understanding homophones is crucial for clear communication, as misusing them ca
 - "The construction site is located downtown."
 
 Recognizing and correctly using homophones like "cite" and "site" enhances both written and spoken language proficiency. citeturn0search5 
+
+
+https://www.grammar-monster.com/easily_confused/cite_sight_site.htm
