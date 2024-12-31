@@ -39,7 +39,7 @@ https://www.merriam-webster.com/dictionary/meridian
 - 請生成時間點。
 - 最後包括Prompt生成時間
 
-## ChatGPT as Profiolo for showcasing.
+## ChatGPT as Portfolio for showcasing.
 
 When applied to chat systems, the idea *"each has a context, and it is in doing computation"* highlights how each interaction within a chat is framed by its environment and purpose. Here's how this applies:
 
