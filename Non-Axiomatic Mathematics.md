@@ -35,15 +35,14 @@ a
 ### NAM Expression
 
 #### **Statement Representation**
-Let \(P(A)\) denote the plausibility that the sum of angles in a triangle equals \(180^\circ\).
+Let $$P(A)$$ denote the plausibility that the sum of angles in a triangle equals $$180^\circ$$.
+$$P(A | \text{Euclidean Context}) = 1$$
+$$P(A | \text{Unknown Context}) \in [0, 1]$$
 
-\[ P(A | \text{Euclidean Context}) = 1 \]
-\[ P(A | \text{Unknown Context}) \in [0, 1] \]
+#### Reasoning Update
 
-#### **Reasoning Update**
-- Given new data \(D\): (e.g., curvature = positive), adjust \(P(A)\).
-- Update using Bayes-like rules (adaptive, non-binary logic):
-\[ P(A | D) \propto P(A) \cdot P(D | A) \]
+Given new data $$D$$: (e.g., curvature = positive), adjust $$P(A)$$.
+Update using Bayes-like rules (adaptive, non-binary logic): $$P(A | D) \propto P(A) \cdot P(D | A)$$
 
 ---
 
