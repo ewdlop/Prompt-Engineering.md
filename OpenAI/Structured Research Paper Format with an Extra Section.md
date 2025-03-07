@@ -148,3 +148,44 @@ This format allows authors to provide a richer context from the start (via the E
 - Discussions interpret results, often including limitations and future research directions ([Research Paper Structure](https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/writing-research-papers/research-paper-structure.html#:~:text=What%20is%20the%20significance%20of,research%20are%20also%20commonly%20addressed)) to contextualize findings.  
 - Content not critical to the main text is traditionally placed in Appendices ([Research Paper Structure](https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/writing-research-papers/research-paper-structure.html#:~:text=that%20is%20not%20critical%20to,often%20placed%20in%20an%20Appendix)); in this format, some of that content can be presented up-front in the Extra section for convenience.  
 - The IMRaD format (Introduction, Methods, Results, and Discussion) is a well-known structure across many scientific fields ([Structuring the Research Paper: Formal Research Structure - UMGC](https://www.umgc.edu/current-students/learning-resources/writing-center/online-guide-to-writing/tutorial/chapter4/ch4-23#:~:text=The%20pattern%20includes%20the%20following%3A,papers%20flow%20from%20the)), and our outlined format is built on it, with modifications to suit various disciplines.
+
+## Extra
+
+**Title:**
+A Structured Approach to Research Paper Composition with an 'Extra' Section
+
+**Authors:**  
+[Your Name]  
+[Your Institution]  
+[Your Email]  
+
+---
+
+### **1. Introduction**
+Provide an overview of the research topic, its significance, and the main objectives of the study.
+
+### **2. Literature Review**
+Summarize relevant research and highlight gaps that this study addresses.
+
+### **3. Methodology**
+Describe the methods and approaches used in conducting the research, including data collection and analysis techniques.
+
+### **4. Results**
+Present the key findings in a structured and clear manner, using tables, figures, or graphs where necessary.
+
+### **5. Discussion**
+Interpret the results, comparing them with previous studies and discussing their implications.
+
+### **6. Conclusion**
+Summarize the main findings and suggest future directions for research.
+
+### **7. Extra Section**
+This section provides additional context, extended discussions, or supplementary information beyond the core abstract. It may include personal insights, extended technical details, limitations, or any other pertinent content that does not fit within the standard sections.
+
+### **8. Additional Extra Section**
+This section serves as a further extension to provide deeper analysis, background information, or reflections related to the study. It can include expanded discussions on methodologies, broader implications of findings, or any relevant topics that enhance the overall understanding of the research.
+
+### **References**
+List all sources cited in the research using an appropriate citation format (APA, IEEE, etc.).
+
+
