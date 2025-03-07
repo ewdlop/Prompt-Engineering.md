@@ -17,8 +17,7 @@ This appears on the first page and identifies the work and authors. It includes:
 
 **Key points:** The title page tells what the paper is called and who wrote it ([Research Paper Structure](https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/writing-research-papers/research-paper-structure.html#:~:text=What%20is%20this%20paper%20called,assisted%20with%20the%20research%20project)). Ensure the title is specific and informative. Author details provide credibility and allow correspondence.
 
-## "Extra" Section (Extended Background/Discussion) 
-**Purpose:** In place of a standard abstract, the **Extra** section offers a space for extended overview, background, or other relevant material that would not fit in a brief abstract. Unlike a typical abstract – a one-paragraph summary of the entire study (~150–250 words) ([Research Paper Structure](https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/writing-research-papers/research-paper-structure.html#:~:text=Abstract)) – this section can be longer and more detailed. It maintains academic tone and can include citations to literature or data for context.
+## "Extra" Section (Extended Background/Discussion)  **Purpose:** In place of a standard abstract, the **Extra** section offers a space for extended overview, background, or other relevant material that would not fit in a brief abstract. Unlike a typical abstract – a one-paragraph summary of the entire study (~150–250 words) ([Research Paper Structure](https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/writing-research-papers/research-paper-structure.html#:~:text=Abstract)) – this section can be longer and more detailed. It maintains academic tone and can include citations to literature or data for context.
 
 **Contents:** This section is flexible but should remain relevant and focused. It may include: 
 
@@ -40,8 +39,7 @@ The introduction is the first section of the main text. It **establishes the res
 
 *Academic rigor:* Even with an Extra section available for more detailed background, the introduction should remain clear and informative. It should *hook* the reader’s interest and logically lead to your methods. Typically, introductions summarize relevant prior work and highlight unresolved issues that the current research will tackle ([Research Paper Structure](https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/writing-research-papers/research-paper-structure.html#:~:text=What%20is%20the%20topic%20and,in%20the%20sections%20to%20follow)). By the end of the introduction, the reader should understand what the study is about and what to expect in the following sections.
 
-## Literature Review or Background (if applicable) 
-In many research papers (especially in social sciences, humanities, or as required by the field), a **Literature Review** or extended **Background** section is included, either as part of the introduction or as its own section. This section **surveys existing knowledge and theories** relevant to the research:
+## Literature Review or Background (if applicable)  In many research papers (especially in social sciences, humanities, or as required by the field), a **Literature Review** or extended **Background** section is included, either as part of the introduction or as its own section. This section **surveys existing knowledge and theories** relevant to the research:
 
 - **Scope of Review:** Discuss prior studies, models, or theories related to your research question. This shows the current state of knowledge.
 - **Critical Analysis:** Highlight findings, strengths, and weaknesses of past work. Identify inconsistencies or gaps in the literature that your research will address.
@@ -50,8 +48,7 @@ In many research papers (especially in social sciences, humanities, or as requir
 
 **Placement:** This can be a standalone section (commonly titled **Literature Review**, **Related Work**, or **Background**) or integrated into the Introduction, depending on disciplinary norms. In fields like humanities, much of the "literature review" is often woven into an extended introduction or even spread throughout the analysis. In STEM fields, a concise literature review is sometimes part of the introduction or a separate section after it. The Extra section can also supplement this by providing additional background that is not critical for the main narrative.
 
-## Methodology (Materials and Methods or Approach) 
-This section explains **how the research was conducted** in sufficient detail. It should be thorough enough that another researcher could understand or even replicate the study ([Research Paper Structure](https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/writing-research-papers/research-paper-structure.html#:~:text=involved%2C%20the%20study%20design%2C%20the,researcher%20to%20duplicate%20your%20research)). The name of the section may vary by field (e.g., *Materials and Methods* in experimental sciences, *Methodology* in social sciences, or *Approach* in theoretical work), but the core purpose is the same. Include:
+## Methodology (Materials and Methods or Approach)  This section explains **how the research was conducted** in sufficient detail. It should be thorough enough that another researcher could understand or even replicate the study ([Research Paper Structure](https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/writing-research-papers/research-paper-structure.html#:~:text=involved%2C%20the%20study%20design%2C%20the,researcher%20to%20duplicate%20your%20research)). The name of the section may vary by field (e.g., *Materials and Methods* in experimental sciences, *Methodology* in social sciences, or *Approach* in theoretical work), but the core purpose is the same. Include:
 
 - **Design/Approach:** Describe the overall design of the study or the approach taken. For empirical studies, state whether it’s experimental, observational, qualitative, quantitative, etc. For theoretical work, explain the analytical or logical approach.
 - **Materials/Data Sources:** If applicable, describe the materials, instruments, or datasets used. (e.g., laboratory equipment, surveys or questionnaires, archival data, simulation tools, texts analyzed.)
@@ -115,8 +112,7 @@ A complete list of all scholarly works **cited in the paper** is provided in the
 
 The References section demonstrates the scholarly foundation of your work. By carefully citing sources, you show academic rigor and allow verification of your information. This section is always required in research writing. 
 
-## Appendices or Supplementary Material (optional) 
-If you have **additional content that is too lengthy or detailed** for the main body but is useful for readers, include it in Appendices at the end of the paper. Appendices (labeled **Appendix A**, **Appendix B**, etc., if more than one) can contain material such as:
+## Appendices or Supplementary Material (optional)  If you have **additional content that is too lengthy or detailed** for the main body but is useful for readers, include it in Appendices at the end of the paper. Appendices (labeled **Appendix A**, **Appendix B**, etc., if more than one) can contain material such as:
 
 - **Raw Data or Calculations:** Large tables of data, detailed mathematical derivations, or extensive statistical results.
 - **Extended Methodological Details:** For example, an expanded description of a survey instrument, code listings, or details of a secondary analysis that would interrupt the flow in the Methods section. (Often, technical programming code or exhaustive lists of stimuli are put here ([Research Paper Structure](https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/writing-research-papers/research-paper-structure.html#:~:text=that%20is%20not%20critical%20to,often%20placed%20in%20an%20Appendix)).)
@@ -148,3 +144,42 @@ This format allows authors to provide a richer context from the start (via the E
 - Discussions interpret results, often including limitations and future research directions ([Research Paper Structure](https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/writing-research-papers/research-paper-structure.html#:~:text=What%20is%20the%20significance%20of,research%20are%20also%20commonly%20addressed)) to contextualize findings.  
 - Content not critical to the main text is traditionally placed in Appendices ([Research Paper Structure](https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/writing-research-papers/research-paper-structure.html#:~:text=that%20is%20not%20critical%20to,often%20placed%20in%20an%20Appendix)); in this format, some of that content can be presented up-front in the Extra section for convenience.  
 - The IMRaD format (Introduction, Methods, Results, and Discussion) is a well-known structure across many scientific fields ([Structuring the Research Paper: Formal Research Structure - UMGC](https://www.umgc.edu/current-students/learning-resources/writing-center/online-guide-to-writing/tutorial/chapter4/ch4-23#:~:text=The%20pattern%20includes%20the%20following%3A,papers%20flow%20from%20the)), and our outlined format is built on it, with modifications to suit various disciplines.
+
+## Extra
+
+**Title:**
+A Structured Approach to Research Paper Composition with an 'Extra' Section
+
+**Authors:**  
+[Your Name]  
+[Your Institution]  
+[Your Email]  
+
+---
+
+### **1. Introduction**
+Provide an overview of the research topic, its significance, and the main objectives of the study.
+
+### **2. Literature Review**
+Summarize relevant research and highlight gaps that this study addresses.
+
+### **3. Methodology**
+Describe the methods and approaches used in conducting the research, including data collection and analysis techniques.
+
+### **4. Results**
+Present the key findings in a structured and clear manner, using tables, figures, or graphs where necessary.
+
+### **5. Discussion**
+Interpret the results, comparing them with previous studies and discussing their implications.
+
+### **6. Conclusion**
+Summarize the main findings and suggest future directions for research.
+
+### **7. Extra Section**
+This section provides additional context, extended discussions, or supplementary information beyond the core abstract. It may include personal insights, extended technical details, limitations, or any other pertinent content that does not fit within the standard sections.
+
+### **8. Additional Extra Section**
+This section serves as a further extension to provide deeper analysis, background information, or reflections related to the study. It can include expanded discussions on methodologies, broader implications of findings, or any relevant topics that enhance the overall understanding of the research.
+
+### **References**
+List all sources cited in the research using an appropriate citation format (APA, IEEE, etc.).
