@@ -116,3 +116,42 @@ Each appendix should be labeled (Appendix A, Appendix B, etc.) and referred to a
 
 **Flow and Clarity:** The above format ensures a logical flow common to scholarly work: beginning with broad context (Introduction), narrowing to specific methods and results, then broadening out again to implications (Discussion and Conclusion) ([Structuring the Research Paper: Formal Research Structure | UMGC](https://www.umgc.edu/current-students/learning-resources/writing-center/online-guide-to-writing/tutorial/chapter4/ch4-23#:~:text=For%20the%20formal%20academic%20research,methods%2C%20results%2C%20discussion%2C%20and%20conclusions%2Frecommendations)). The replacement of the Abstract with an **Extract** section provides a concise, **structured overview** for readers to quickly understand the essence of the research **at a glance**, by clearly delineating the purpose, methodology, key findings, and conclusions of the study. Each subsequent section of the paper then elaborates on these points in detail, following a clear progression. This structured approach helps maintain clarity and academic rigor, guiding the reader through the research in a coherent manner from start to finish.
 ```
+## Extra　
+
+**Title:**
+A Structured Approach to Research Paper Composition with an 'Extra' Section
+
+**Authors:**  
+[Your Name]  
+[Your Institution]  
+[Your Email]  
+
+---
+
+### **1. Introduction**
+Provide an overview of the research topic, its significance, and the main objectives of the study.
+
+### **2. Literature Review**
+Summarize relevant research and highlight gaps that this study addresses.
+
+### **3. Methodology**
+Describe the methods and approaches used in conducting the research, including data collection and analysis techniques.
+
+### **4. Results**
+Present the key findings in a structured and clear manner, using tables, figures, or graphs where necessary.
+
+### **5. Discussion**
+Interpret the results, comparing them with previous studies and discussing their implications.
+
+### **6. Conclusion**
+Summarize the main findings and suggest future directions for research.
+
+### **7. Extra Section**
+This section provides additional context, extended discussions, or supplementary information beyond the core abstract. It may include personal insights, extended technical details, limitations, or any other pertinent content that does not fit within the standard sections.
+
+### **8. Additional Extra Section**
+This section serves as a further extension to provide deeper analysis, background information, or reflections related to the study. It can include expanded discussions on methodologies, broader implications of findings, or any relevant topics that enhance the overall understanding of the research.
+
+### **References**
+List all sources cited in the research using an appropriate citation format (APA, IEEE, etc.).
+
