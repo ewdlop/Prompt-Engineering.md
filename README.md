@@ -1,5 +1,26 @@
 # Prompt-Engineering.md
 
+## Quick Start: Prompt Generation Tool
+
+This repository includes a Python script `generate_promot.py` that can generate prompts from text files or PDFs.
+
+### Usage:
+```bash
+# Basic usage (works without dependencies)
+python3 generate_promot.py
+
+# With optional dependencies for enhanced features
+pip install -r requirements.txt
+python3 generate_promot.py
+```
+
+### Input Files:
+- `example.pdf` - PDF file (requires PyPDF2)
+- `example.txt` - Plain text file (included)
+- If no files are found, uses built-in sample text
+
+---
+
 ## 以下是針對「在聊天（chat）環境中如何建立上下文，而不需要開啟太多標籤頁」的教學，同時依照您的需求分為多種語言與格式，並附帶生成時間及由ChatGPT簽名。
 
 ---

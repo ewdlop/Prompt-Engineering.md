@@ -1,0 +1,6 @@
+This is a sample text file for testing prompt generation.
+Artificial intelligence has revolutionized many industries.
+Machine learning algorithms can identify patterns in large datasets.
+Natural language processing enables computers to understand human language.
+Deep learning models are inspired by the structure of neural networks.
+The future of AI holds tremendous potential for solving complex problems.
