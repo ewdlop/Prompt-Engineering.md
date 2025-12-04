@@ -297,7 +297,7 @@ S -> "Put all details" "in one message"
 
 ## 51. Speaks like Jesus, God, judge, lawyer, hacker
 - “My child, do thou gather all details in a single chat message, that thou mayest not be plagued by a swarm of tabs.”
-
+> Tabs? Routes? Python? What if a chat message is immutable? Emotional Freedom Techniques.
 ---
 
 ## 52. Inpatient, Narcissist, and Violent
