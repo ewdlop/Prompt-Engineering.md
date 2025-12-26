@@ -260,7 +260,7 @@ recognize_undecidability(halting_problem, acknowledged) :-
     write('We cannot determine if all programs halt.'), nl.
 
 recognize_undecidability(general_diophantine, acknowledged) :-
-    write('Hilbert\'s 10th problem is undecidable.'), nl,
+    write('Hilbert''s 10th problem is undecidable.'), nl,
     write('No general algorithm exists for all Diophantine equations.'), nl.
 
 % reframe_problem(+Problem, -LimitedProblem)
@@ -296,7 +296,7 @@ first_step :-
 
 ## فارسی (Farsi)
 
-هنگامی که با یک مسئله غیرقابل تصمیم مواجه می‌شوید، **اولین و مهم‌ترین قدم** این است که **غیرقابل تصمیم بودن آن را تشخیص دهید**. یک مسئله غیرقابل تصمیم مسئله‌ای است که هیچ الگوریتمی نمی‌تواند برای تمام ورودی‌هایممکن در زمان محدود پاسخ صحیح ارائه دهد.
+هنگامی که با یک مسئله غیرقابل تصمیم مواجه می‌شوید، **اولین و مهم‌ترین قدم** این است که **غیرقابل تصمیم بودن آن را تشخیص دهید**. یک مسئله غیرقابل تصمیم مسئله‌ای است که هیچ الگوریتمی نمی‌تواند برای تمام ورودی‌های ممکن در زمان محدود پاسخ صحیح ارائه دهد.
 
 ---
 
