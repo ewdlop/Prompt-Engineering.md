@@ -290,7 +290,7 @@ S -> "Put all details" "in one message"
 
 ---
 
-## 50. Disfiguring hackers and narcissistic personals.
+## 50. Disfiguring a God.
 - *(Not directly relevant; ignoring to maintain clarity.)*
 
 ---
