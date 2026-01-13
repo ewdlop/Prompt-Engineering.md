@@ -1,0 +1,11 @@
+# Optional dependencies for generate_promot.py
+# Install with: pip install -r requirements.txt
+
+# For PDF text extraction
+PyPDF2>=3.0.0
+
+# For advanced English sentence tokenization
+nltk>=3.8
+
+# For Chinese text processing
+jieba>=0.42.1
